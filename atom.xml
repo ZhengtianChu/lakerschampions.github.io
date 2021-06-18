@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhengtian CHU</title>
+  
+  <subtitle>Welcome to Andrew&#39;s base!</subtitle>
+  <link href="https://lakerschampions.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lakerschampions.github.io/"/>
+  <updated>2021-05-06T21:33:37.858Z</updated>
+  <id>https://lakerschampions.github.io/</id>
+  
+  <author>
+    <name>Zhengtian CHU</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大三生活学习总结</title>
+    <link href="https://lakerschampions.github.io/2021/06/18/da-san-xue-xi-zong-jie/"/>
+    <id>https://lakerschampions.github.io/2021/06/18/da-san-xue-xi-zong-jie/</id>
+    <published>2021-06-18T08:25:00.000Z</published>
+    <updated>2021-05-06T21:33:37.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;学习方面&quot;&gt;&lt;a href=&quot;#学习方面&quot; class=&quot;headerlink&quot; title=&quot;学习方面&quot;&gt;&lt;/a&gt;学习方面&lt;/h2&gt;&lt;p&gt;OSC：&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="UoN" scheme="https://lakerschampions.github.io/tags/UoN/"/>
+    
+    <category term="Life" scheme="https://lakerschampions.github.io/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构整理</title>
+    <link href="https://lakerschampions.github.io/2021/05/07/shu-ju-jie-gou-zheng-li/"/>
+    <id>https://lakerschampions.github.io/2021/05/07/shu-ju-jie-gou-zheng-li/</id>
+    <published>2021-05-06T20:58:32.000Z</published>
+    <updated>2021-05-06T21:35:52.675Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;图论-课件&quot;&gt;&lt;a href=&quot;#图论-课件&quot; class=&quot;headerlink&quot; title=&quot;图论  (课件)&quot;&gt;&lt;/a&gt;图论  &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Notes" scheme="https://lakerschampions.github.io/categories/Notes/"/>
+    
+    
+    <category term="UoN" scheme="https://lakerschampions.github.io/tags/UoN/"/>
+    
+    <category term="Data Structure" scheme="https://lakerschampions.github.io/tags/Data-Structure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人简历（CV）</title>
+    <link href="https://lakerschampions.github.io/2021/05/06/cv/"/>
+    <id>https://lakerschampions.github.io/2021/05/06/cv/</id>
+    <published>2021-05-05T23:26:31.676Z</published>
+    <updated>2021-05-06T10:07:53.867Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;embed src=&quot;/img/实习简历-储正天.pdf&quot; width=&quot;800&quot; height=&quot;1000&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;embed src=&quot;/img/ZhengtianCHU-CV.pdf&quot; width=&quot;800&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CV" scheme="https://lakerschampions.github.io/categories/CV/"/>
+    
+    
+    <category term="CV" scheme="https://lakerschampions.github.io/tags/CV/"/>
+    
+    <category term="PDF" scheme="https://lakerschampions.github.io/tags/PDF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Process Simulator</title>
+    <link href="https://lakerschampions.github.io/2021/03/30/processsimulator/"/>
+    <id>https://lakerschampions.github.io/2021/03/30/processsimulator/</id>
+    <published>2021-03-30T11:25:00.000Z</published>
+    <updated>2021-05-06T20:59:42.089Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;processSimulator&quot;&gt;&lt;a href=&quot;#processSimulator&quot; class=&quot;headerlink&quot; title=&quot;processSimulator&quot;&gt;&lt;/a&gt;processSimulator&lt;/h1&gt;&lt;p&gt;Zhengtian CHU</summary>
+        
+      
+    
+    
+    
+    <category term="Linux C" scheme="https://lakerschampions.github.io/categories/Linux-C/"/>
+    
+    
+    <category term="UoN" scheme="https://lakerschampions.github.io/tags/UoN/"/>
+    
+    <category term="Coursework" scheme="https://lakerschampions.github.io/tags/Coursework/"/>
+    
+    <category term="Linux C" scheme="https://lakerschampions.github.io/tags/Linux-C/"/>
+    
+    <category term="Operating System" scheme="https://lakerschampions.github.io/tags/Operating-System/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sokoban</title>
+    <link href="https://lakerschampions.github.io/2020/12/16/sokoban/"/>
+    <id>https://lakerschampions.github.io/2020/12/16/sokoban/</id>
+    <published>2020-12-15T16:21:00.000Z</published>
+    <updated>2021-05-06T21:34:19.289Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;Zhengtian CHU (scyzc3),</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://lakerschampions.github.io/categories/Java/"/>
+    
+    
+    <category term="UoN" scheme="https://lakerschampions.github.io/tags/UoN/"/>
+    
+    <category term="Java" scheme="https://lakerschampions.github.io/tags/Java/"/>
+    
+    <category term="JavaFX" scheme="https://lakerschampions.github.io/tags/JavaFX/"/>
+    
+    <category term="Maven" scheme="https://lakerschampions.github.io/tags/Maven/"/>
+    
+    <category term="Coursework" scheme="https://lakerschampions.github.io/tags/Coursework/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Summer Intern Report 2020</title>
+    <link href="https://lakerschampions.github.io/2020/09/17/summer-intern-reports/"/>
+    <id>https://lakerschampions.github.io/2020/09/17/summer-intern-reports/</id>
+    <published>2020-09-17T08:25:00.000Z</published>
+    <updated>2021-05-06T21:26:04.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;embed src=&quot;/img/summer_intern.pdf&quot; width=&quot;800&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Data Analysis" scheme="https://lakerschampions.github.io/categories/Data-Analysis/"/>
+    
+    
+    <category term="PDF" scheme="https://lakerschampions.github.io/tags/PDF/"/>
+    
+    <category term="Summer Intern" scheme="https://lakerschampions.github.io/tags/Summer-Intern/"/>
+    
+    <category term="UNNC" scheme="https://lakerschampions.github.io/tags/UNNC/"/>
+    
+    <category term="Data" scheme="https://lakerschampions.github.io/tags/Data/"/>
+    
+    <category term="LDA" scheme="https://lakerschampions.github.io/tags/LDA/"/>
+    
+    <category term="BTM" scheme="https://lakerschampions.github.io/tags/BTM/"/>
+    
+    <category term="Math" scheme="https://lakerschampions.github.io/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推特数据LDA建模的python简单实现</title>
+    <link href="https://lakerschampions.github.io/2020/07/01/huo-qu-tui-te-shu-ju-bing-yong-lda-zhu-ti-ju-lei-jin-xing-shu-ju-fen-xi-de-python-jian-dan-shi-xian/"/>
+    <id>https://lakerschampions.github.io/2020/07/01/huo-qu-tui-te-shu-ju-bing-yong-lda-zhu-ti-ju-lei-jin-xing-shu-ju-fen-xi-de-python-jian-dan-shi-xian/</id>
+    <published>2020-07-01T08:25:00.000Z</published>
+    <updated>2021-05-06T21:26:32.217Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;相关库&quot;&gt;&lt;a href=&quot;#相关库&quot; class=&quot;headerlink&quot; title=&quot;相关库&quot;&gt;&lt;/a&gt;相关库&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;python tweepy库（用来获取推特数据）&lt;/li&gt;
+&lt;li&gt;python</summary>
+        
+      
+    
+    
+    
+    <category term="Data Analysis" scheme="https://lakerschampions.github.io/categories/Data-Analysis/"/>
+    
+    
+    <category term="UNNC" scheme="https://lakerschampions.github.io/tags/UNNC/"/>
+    
+    <category term="Data" scheme="https://lakerschampions.github.io/tags/Data/"/>
+    
+    <category term="LDA" scheme="https://lakerschampions.github.io/tags/LDA/"/>
+    
+    <category term="Math" scheme="https://lakerschampions.github.io/tags/Math/"/>
+    
+    <category term="Python" scheme="https://lakerschampions.github.io/tags/Python/"/>
+    
+    <category term="Twitter" scheme="https://lakerschampions.github.io/tags/Twitter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络整理</title>
+    <link href="https://lakerschampions.github.io/2020/06/18/network/"/>
+    <id>https://lakerschampions.github.io/2020/06/18/network/</id>
+    <published>2020-06-17T20:58:32.000Z</published>
+    <updated>2021-05-06T21:36:08.890Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;当在浏览器中输入URL会发生什么？&quot;&gt;&lt;a href=&quot;#当在浏览器中输入URL会发生什么？&quot; class=&quot;headerlink&quot; title=&quot;当在浏览器中输入URL会发生什么？&quot;&gt;&lt;/a&gt;当在浏览器中输入URL会发生什么？&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Notes" scheme="https://lakerschampions.github.io/categories/Notes/"/>
+    
+    
+    <category term="network" scheme="https://lakerschampions.github.io/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件工程整理</title>
+    <link href="https://lakerschampions.github.io/2020/05/31/ruan-jian-gong-cheng-zheng-li/"/>
+    <id>https://lakerschampions.github.io/2020/05/31/ruan-jian-gong-cheng-zheng-li/</id>
+    <published>2020-05-30T20:58:32.000Z</published>
+    <updated>2021-05-06T21:43:02.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Notes" scheme="https://lakerschampions.github.io/categories/Notes/"/>
+    
+    
+    <category term="UoN" scheme="https://lakerschampions.github.io/tags/UoN/"/>
+    
+    <category term="Software" scheme="https://lakerschampions.github.io/tags/Software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最后一舞，舞过一段青春</title>
+    <link href="https://lakerschampions.github.io/2019/04/14/zui-hou-yi-wu/"/>
+    <id>https://lakerschampions.github.io/2019/04/14/zui-hou-yi-wu/</id>
+    <published>2019-04-14T08:25:00.000Z</published>
+    <updated>2021-05-06T21:00:10.549Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;北京时间2019年4月11日，美国当地时间10日晚，在结束了与布鲁克林篮网队的本赛季常规赛最后一站之后，NBA迈阿密热火队队魂“闪电侠”德维恩韦德宣布退役。&lt;/p&gt;
+&lt;p&gt;随后，在达拉斯独行侠与圣安东尼奥马刺队的比赛结束后，独行侠队传奇球星德克诺维斯基宣布退役。&lt;/p&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="Life" scheme="https://lakerschampions.github.io/categories/Life/"/>
+    
+    
+    <category term="Life" scheme="https://lakerschampions.github.io/tags/Life/"/>
+    
+    <category term="Basketball" scheme="https://lakerschampions.github.io/tags/Basketball/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lakerschampions.github.io/2018/09/01/hello-world/"/>
+    <id>https://lakerschampions.github.io/2018/09/01/hello-world/</id>
+    <published>2018-09-01T08:25:00.000Z</published>
+    <updated>2021-05-06T21:23:17.921Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Guideline" scheme="https://lakerschampions.github.io/categories/Guideline/"/>
+    
+    
+    <category term="Hexo" scheme="https://lakerschampions.github.io/tags/Hexo/"/>
+    
+    <category term="Guideline" scheme="https://lakerschampions.github.io/tags/Guideline/"/>
+    
+  </entry>
+  
+</feed>

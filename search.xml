@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>大三生活学习总结</title>
+      <link href="2021/06/18/da-san-xue-xi-zong-jie/"/>
+      <url>2021/06/18/da-san-xue-xi-zong-jie/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习方面"><a href="#学习方面" class="headerlink" title="学习方面"></a>学习方面</h2><p>OSC：<a href="https://github.com/lakerschampions/Notes_in_School/tree/master/Operating%20System">学习笔记</a>，<a href="https://github.com/lakerschampions/processSimulator">coursework</a> （93 / 100），总分：92 / 100。<br>DMS：<a href="https://github.com/lakerschampions/Sokoban">coursework</a>（95 / 100），总分：95 / 100。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UoN </tag>
+            
+            <tag> Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据结构整理</title>
+      <link href="2021/05/07/shu-ju-jie-gou-zheng-li/"/>
+      <url>2021/05/07/shu-ju-jie-gou-zheng-li/</url>
+      
+        <content type="html"><![CDATA[<h1 id="图论-课件"><a href="#图论-课件" class="headerlink" title="图论  (课件)"></a>图论  <a href="https://moodle.nottingham.ac.uk/pluginfile.php/7315067/mod_resource/content/69/ADE-lec21-graphs-basics.pdf">(课件)</a></h1><h2 id="最小生成树-课件"><a href="#最小生成树-课件" class="headerlink" title="最小生成树  (课件)"></a>最小生成树  <a href="https://moodle.nottingham.ac.uk/pluginfile.php/7318222/mod_resource/content/75/ADE-lec22-MST.pdf">(课件)</a></h2><p>参考文章 ：<a href="https://cloud.tencent.com/developer/article/1424759">关于图论中的最小生成树</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Notes </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> UoN </tag>
+            
+            <tag> Data Structure </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人简历（CV）</title>
+      <link href="2021/05/06/cv/"/>
+      <url>2021/05/06/cv/</url>
+      
+        <content type="html"><![CDATA[<center><embed src="/img/实习简历-储正天.pdf" width="800" height="1000"></center><center><embed src="/img/ZhengtianCHU-CV.pdf" width="800" height="1000"></center>]]></content>
+      
+      
+      <categories>
+          
+          <category> CV </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CV </tag>
+            
+            <tag> PDF </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Process Simulator</title>
+      <link href="2021/03/30/processsimulator/"/>
+      <url>2021/03/30/processsimulator/</url>
+      
+        <content type="html"><![CDATA[<h1 id="processSimulator"><a href="#processSimulator" class="headerlink" title="processSimulator"></a>processSimulator</h1><p>Zhengtian CHU test in Linux, use Linux C. Final marks: 93/100<br>Reference: <a href="https://github.com/lakerschampions/processSimulator">https://github.com/lakerschampions/processSimulator</a></p><h2 id="How-to-run-it"><a href="#How-to-run-it" class="headerlink" title="How to run it:"></a>How to run it:</h2><ul><li>Open the terminal.</li><li>Enter the following instruction:<pre class="line-numbers language-none"><code class="language-none">gcc -std=gnu99 processSimulator.c linkedlist.c coursework.c -pthread./a.out &gt; output.html<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre></li></ul><h2 id="How-to-check-the-results"><a href="#How-to-check-the-results" class="headerlink" title="How to check the results:"></a>How to check the results:</h2><ul><li>open ‘output.html’ </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux C </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> UoN </tag>
+            
+            <tag> Coursework </tag>
+            
+            <tag> Linux C </tag>
+            
+            <tag> Operating System </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Sokoban</title>
+      <link href="2020/12/16/sokoban/"/>
+      <url>2020/12/16/sokoban/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>Zhengtian CHU (scyzc3), Tested on Windows 10, Maven Build Script, Java 15, JavaFX 11, final grades: 95/100.<br>Source: <a href="https://github.com/lakerschampions/Sokoban">https://github.com/lakerschampions/Sokoban</a></p><h2 id="Contents"><a href="#Contents" class="headerlink" title="Contents"></a>Contents</h2><h3 id="New-Classes"><a href="#New-Classes" class="headerlink" title="New Classes"></a>New Classes</h3><ul><li>Source code in <code>src/main/java</code>:<pre class="line-numbers language-none"><code class="language-none">display:    FileHandler.java    GamePage.java    StartPage.java    ScoreBoardAdapter.javaelement:    EngineFactoryPattern.java    ScoreList.javainteract:    controller:        GamePageController.java        ScoreBoardController.java        StartPageController.java    model:        GamePageModel.java    view:        GamePageView.java<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>Files in <code>resource/display</code>:<pre class="line-numbers language-none"><code class="language-none">ScoreBoardView.fxmlStartPageView.fxmlstyle.css<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre></li><li>Junit tests in <code>test/java</code><pre class="line-numbers language-none"><code class="language-none">display:    GameCoreTest.javaelement:    GameEngineTest.java    GameObjectTest.java    GameGridTest.java    LevelTest.java    ScoreListTest.java    GraphicObjectTest.java    MusicPlayerTest.java<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Modified-Classes"><a href="#Modified-Classes" class="headerlink" title="Modified Classes"></a>Modified Classes</h3></li><li>Disassemble from <code>Main.java</code>:  <pre class="line-numbers language-none"><code class="language-none">GameCore.java GameEngine.java MusicPlayer.javaGameDialog.java<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre></li><li>Modify origin classes:   <pre class="line-numbers language-none"><code class="language-none">Level.javaGameEngine.javaGameGrid.javaGameLogger.javaGameObject.javaGraphicObject.java<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h2 id="How-to-compile-the-code"><a href="#How-to-compile-the-code" class="headerlink" title="How to compile the code"></a>How to compile the code</h2><ul><li><strong>Use IDEs (IntelliJ or Eclipse)</strong>:<ul><li>Run the <code>StartPage.java</code> in <code>src/main/java/display</code> as main class.</li></ul></li><li><strong>Use Maven</strong>:<ul><li>Terminal command: <code>mvn clean: javafx:run</code></li></ul></li></ul><h2 id="Javadoc"><a href="#Javadoc" class="headerlink" title="Javadoc"></a>Javadoc</h2><ul><li>Javadocs have been added to all the classes in <em>src/main/java</em>.</li><li>Javadocs have been stored in <em>javadoc</em>.</li></ul><h2 id="Functionality"><a href="#Functionality" class="headerlink" title="Functionality"></a>Functionality</h2><h3 id="Implemented-and-Worked-Properly-Features"><a href="#Implemented-and-Worked-Properly-Features" class="headerlink" title="Implemented and Worked Properly Features"></a>Implemented and Worked Properly Features</h3><h4 id="1-Background-Music"><a href="#1-Background-Music" class="headerlink" title="1. Background Music"></a>1. Background Music</h4><p>Turn on and turn off background music.</p><h4 id="2-Undo"><a href="#2-Undo" class="headerlink" title="2. Undo"></a>2. Undo</h4><h4 id="3-Reset-Level"><a href="#3-Reset-Level" class="headerlink" title="3. Reset Level"></a>3. Reset Level</h4><h4 id="4-Score-Board"><a href="#4-Score-Board" class="headerlink" title="4. Score Board"></a>4. Score Board</h4><p>After finishing each level, the player can see a score board which records the top 10 score in this level; And after finishing whole game, they can see a permanent rank list for the whole game.</p><h4 id="5-Save-and-Load-Game"><a href="#5-Save-and-Load-Game" class="headerlink" title="5. Save and Load Game"></a>5. Save and Load Game</h4><h4 id="6-Real-time-Status-Display"><a href="#6-Real-time-Status-Display" class="headerlink" title="6. Real-time Status Display"></a>6. Real-time Status Display</h4><p>Players can check their moves count, time-consuming and level index when playing.</p><h4 id="7-A-Start-Page"><a href="#7-A-Start-Page" class="headerlink" title="7. A Start Page"></a>7. A Start Page</h4><h4 id="8-Choose-the-Wall-Color"><a href="#8-Choose-the-Wall-Color" class="headerlink" title="8. Choose the Wall Color"></a>8. Choose the Wall Color</h4><h4 id="9-UI-Design"><a href="#9-UI-Design" class="headerlink" title="9. UI Design"></a>9. UI Design</h4><p>Add a style sheet for the start page and score board.</p><h4 id="10-Reward-and-Penalty"><a href="#10-Reward-and-Penalty" class="headerlink" title="10. Reward and Penalty"></a>10. Reward and Penalty</h4><p>Players can pick the <strong>star</strong> to reduce the time-consuming. If they step on the <strong>bomb</strong>, it will blow them up.</p><h4 id="11-Additional-level"><a href="#11-Additional-level" class="headerlink" title="11. Additional level"></a>11. Additional level</h4><h3 id="Implemented-but-Flawed-Features"><a href="#Implemented-but-Flawed-Features" class="headerlink" title="Implemented but Flawed Features"></a>Implemented but Flawed Features</h3><h4 id="1-Portal"><a href="#1-Portal" class="headerlink" title="1. Portal"></a>1. Portal</h4><p>A portal can transfer the keeper from one location to another, but is not work well when using undo. </p><h3 id="Unimplemented-Features"><a href="#Unimplemented-Features" class="headerlink" title="Unimplemented Features"></a>Unimplemented Features</h3><h4 id="1-Teaching-Level"><a href="#1-Teaching-Level" class="headerlink" title="1.Teaching Level"></a>1.Teaching Level</h4><p>I want to create a teaching level to introduce players to the rules of pushing boxes and how to operate them.</p><h4 id="2-Cannot-deal-with-maps-if-the-box-and-the-diamond-overlap-in-the-beginning"><a href="#2-Cannot-deal-with-maps-if-the-box-and-the-diamond-overlap-in-the-beginning" class="headerlink" title="2. Cannot deal with maps if the box and the diamond overlap in the beginning"></a>2. Cannot deal with maps if the box and the diamond overlap in the beginning</h4><h2 id="Refactoring"><a href="#Refactoring" class="headerlink" title="Refactoring"></a>Refactoring</h2><h3 id="Design-Patterns"><a href="#Design-Patterns" class="headerlink" title="Design Patterns"></a>Design Patterns</h3><ul><li><p>Use <strong>MVC modern</strong> to keep the model away from the GUI implementation. FXML document is used for GUI design. Main process happens in model and use controller to handle events. For example,</p>  <pre class="line-numbers language-none"><code class="language-none">StartPageModel.javaStartPageView.fxmlStartPageController.java<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre></li><li><p>Use <strong>Singleton pattern</strong> to generate only one MusicPlayer instance so that the music player won’t be generated again. </p>  <pre class="line-numbers language-none"><code class="language-none">MusicPlayer player = MusicPlayer.getInstance()<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></li><li><p>Use <strong>Simple Factory Pattern</strong> to manufacture game engine from engine factory. You can check it in <code>EngineFactoryPattern.java</code>.</p></li><li><p>Use <strong>Adapter Pattern</strong> to adapt two different kinds of score boards. You can check it in <code>ScoreBoardAdapter.java</code>.</p></li></ul><h3 id="Junit-Test"><a href="#Junit-Test" class="headerlink" title="Junit Test"></a>Junit Test</h3><p>Add useful unit tests for classes in <code>src/main/java</code>.</p><h3 id="Maven"><a href="#Maven" class="headerlink" title="Maven"></a>Maven</h3><p>Use <strong>maven</strong> to build the project. All the dependency has been wrote in <code>pom.xml</code>.</p><h3 id="Source-Code-Tree"><a href="#Source-Code-Tree" class="headerlink" title="Source Code Tree"></a>Source Code Tree</h3><pre class="line-numbers language-none"><code class="language-none">├───main│   ├───java│   │   ├───display│   │   ├───element│   │   └───interact│   │       ├───controller│   │       ├───model│   │       └───view│   └───resources│       ├───display│       ├───element│       └───scoreboard└───test    ├───java    │   ├───display    │   └───element    └───resources<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Bob’s-Convention"><a href="#Bob’s-Convention" class="headerlink" title="Bob’s Convention"></a>Bob’s Convention</h3><p>Use <strong>Bob’s Convention</strong> to modify code and remove some unused or duplicated code.`</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> UoN </tag>
+            
+            <tag> Java </tag>
+            
+            <tag> JavaFX </tag>
+            
+            <tag> Maven </tag>
+            
+            <tag> Coursework </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Summer Intern Report 2020</title>
+      <link href="2020/09/17/summer-intern-reports/"/>
+      <url>2020/09/17/summer-intern-reports/</url>
+      
+        <content type="html"><![CDATA[<center><embed src="/img/summer_intern.pdf" width="800" height="1000"></center>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PDF </tag>
+            
+            <tag> Summer Intern </tag>
+            
+            <tag> UNNC </tag>
+            
+            <tag> Data </tag>
+            
+            <tag> LDA </tag>
+            
+            <tag> BTM </tag>
+            
+            <tag> Math </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>推特数据LDA建模的python简单实现</title>
+      <link href="2020/07/01/huo-qu-tui-te-shu-ju-bing-yong-lda-zhu-ti-ju-lei-jin-xing-shu-ju-fen-xi-de-python-jian-dan-shi-xian/"/>
+      <url>2020/07/01/huo-qu-tui-te-shu-ju-bing-yong-lda-zhu-ti-ju-lei-jin-xing-shu-ju-fen-xi-de-python-jian-dan-shi-xian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="相关库"><a href="#相关库" class="headerlink" title="相关库"></a>相关库</h2><ul><li>python tweepy库（用来获取推特数据）</li><li>python nltk库（在规范数据时会用到）</li><li>python pandas库（将数据存放进矩阵中便于分析）</li></ul><pre class="line-numbers language-none"><code class="language-none">from nltk.corpus import stopwordsfrom nltk.stem.wordnet import WordNetLemmatizerimport reimport stringimport gensimfrom gensim import corporaimport tweepyimport timeimport pandas as pdimport numpy as npimport requestsimport osimport jsonimport matplotlib.pyplot as pltimport seaborn as sns<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="1-连接api"><a href="#1-连接api" class="headerlink" title="1.连接api"></a>1.连接api</h2><pre class="line-numbers language-none"><code class="language-none">consumer_key = 'XXXXXXXXX'consumer_secret = 'XXXXXXXX'access_token = 'XXXXXXXX'access_token_secret = 'XXXXXXXX' auth = tweepy.OAuthHandler(consumer_key, consumer_secret)auth.set_access_token(access_token, access_token_secret) api = tweepy.API(auth,wait_on_rate_limit=True, wait_on_rate_limit_notify=True)  #排除速率限制带来的干扰<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-获取hashtag为“COVID19”的100条tweets"><a href="#2-获取hashtag为“COVID19”的100条tweets" class="headerlink" title="2.获取hashtag为“COVID19”的100条tweets"></a>2.获取hashtag为“COVID19”的100条tweets</h2><p>抓取具有特定hashtag的100条最新的tweets，规定语言为英语</p><pre class="line-numbers language-none"><code class="language-none">CovidList = []i = 100t1 = time.time()tweets = api.search(q='COVID19',lang='en',tweet_mode='extended',count=i)# print(dir(tweets[0]))for tweet in tweets:# 有些tweets是转发他人的，所以需要获取转发的tweets的fulltext    if 'retweeted_status' in dir(tweet):        CovidList.append(tweet.retweeted_status.full_text)    else:        CovidList.append(tweet.full_text)  t2 = time.time()print("获取",i,"条tweets耗时",t2-t1,'s')<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>获取的tweets文本被存放在了CovidList中，预计输出类似<em>“获取 10000 条tweets耗时 11.249251127243042 s”</em>。</p><h2 id="3-规范数据"><a href="#3-规范数据" class="headerlink" title="3.规范数据"></a>3.规范数据</h2><p>从nltk导入stopwords库，从string导入punctuation，去除了tweets中的停用词（对文本影响不大但是经常出现的没有意义的词，诸如it，is，a，an等）和标点符号。用<em>WordNetLemmatizer</em>将词语规范化（类似eating会被转化成eat）</p><pre class="line-numbers language-none"><code class="language-none">stop = set(stopwords.words('english'))exclude = set(string.punctuation)lemma = WordNetLemmatizer()def clean(sentence):    stop_free = " ".join([i for i in sentence.lower().split() if i not in stop])    punc_free = ''.join(ch for ch in stop_free if ch not in exclude)    normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())    return normalizedCleanList = [clean(sen).split() for sen in CovidList]<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>有些词语会在转化的过程中自动产生（比如amp），由于我们是希望在跟covid19相关的tweets中获取他们的主题，所以我们也不希望covid19出现在结果里，所以我在这里把他们放进remove_list里删除，具体的list可以在后期继续补充</p><pre class="line-numbers language-none"><code class="language-none">remove_list = ['amp','&amp;amp','#covid19','covid19','u']for tweet in CleanList:    for word in tweet:        if word in remove_list:            tweet.remove(word)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4-建立模型，并进行训练"><a href="#4-建立模型，并进行训练" class="headerlink" title="4.建立模型，并进行训练"></a>4.建立模型，并进行训练</h2><p>建立两个主题聚类的模型</p><pre class="line-numbers language-none"><code class="language-none">dictionary = corpora.Dictionary(CleanList)corpus = [dictionary.doc2bow(tweet) for tweet in CleanList]t3 = time.time()Lda = gensim.models.ldamodel.LdaModelldamodel = Lda(corpus, num_topics=2, id2word = dictionary, passes=50)t4 = time.time()print("训练",i,"条tweets耗时",t4-t3,'s')<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="5-输出结果"><a href="#5-输出结果" class="headerlink" title="5.输出结果"></a>5.输出结果</h2><p>两个主题聚类，每个主题四个关键词</p><pre class="line-numbers language-none"><code class="language-none">print(ldamodel.print_topics(num_topics=2,num_words=4))<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>最后的结果：<em>[(0, ‘0.007*”mask” + 0.005*”join” + 0.005*”help” + 0.005*”challenge”‘), (1, ‘0.008*”death” + 0.007*”patient” + 0.005*”positive” + 0.005*”blood”‘)]</em><br></p><h2 id="6-总结"><a href="#6-总结" class="headerlink" title="6.总结"></a>6.总结</h2><p>可以发现，第一个主题的四个关键词是mask，join，help，challenge，我们或许可以根据这四个单词联想到，人们获取口罩是一种挑战或是口罩帮助人们客服挑战之类；而第二个主题与death,patient,blood有关，显然这与医院中的救援相关；这些就是我们从用户的tweets中获取的主题，本次训练结果总体来说还可以接受。<br><br>本人第一次写类似主题的文字，对于LDA模型的具体细节还是一知半解的状态，代码也是直接套用的模型，如果本文中有不恰当的地方，尽情指正。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> UNNC </tag>
+            
+            <tag> Data </tag>
+            
+            <tag> LDA </tag>
+            
+            <tag> Math </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> Twitter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络整理</title>
+      <link href="2020/06/18/network/"/>
+      <url>2020/06/18/network/</url>
+      
+        <content type="html"><![CDATA[<h2 id="当在浏览器中输入URL会发生什么？"><a href="#当在浏览器中输入URL会发生什么？" class="headerlink" title="当在浏览器中输入URL会发生什么？"></a>当在浏览器中输入URL会发生什么？</h2><h3 id="1-请求解析URL所对应的-IP-地址。"><a href="#1-请求解析URL所对应的-IP-地址。" class="headerlink" title="1.请求解析URL所对应的 IP 地址。"></a>1.请求解析URL所对应的 IP 地址。</h3><ul><li>将URL解析出来，拿到域名部分。</li><li>用DNS解析成IP地址。域名查找的过程，主要是根据域名的分级，一级一级的去找，这就是域名分级的作用。</li></ul><h3 id="2-根据-IP-地址和默认端口建立TCP连接。"><a href="#2-根据-IP-地址和默认端口建立TCP连接。" class="headerlink" title="2.根据 IP 地址和默认端口建立TCP连接。"></a>2.根据 IP 地址和默认端口建立TCP连接。</h3><p>第一次握手：建立连接时，客户端发送syn包（syn=x）到服务器，并进入SYN_SENT状态，等待服务器确认；SYN：同步序列编号（Synchronize Sequence Numbers）。<br><br>第二次握手： 服务器收到syn包，必须确认客户的SYN（ack=x+1），同时自己也发送一个SYN包（syn=y），即SYN+ACK包，此时服务器进入SYN_RECV状态；<br><br>第三次握手：客户端收到服务器的SYN+ACK包，向服务器发送确认包ACK(ack=y+1），此包发送完毕，客户端和服务器进入ESTABLISHED（TCP连接成功）状态，完成三次握手。<br></p><h3 id="为什么需要第三次握手？"><a href="#为什么需要第三次握手？" class="headerlink" title="为什么需要第三次握手？"></a>为什么需要第三次握手？</h3><p>第三次握手是为了防止已经失效的连接请求报文段突然又传到服务端，因而产生错误。<br></p><h3 id="3-浏览器发出HTTP-请求。"><a href="#3-浏览器发出HTTP-请求。" class="headerlink" title="3.浏览器发出HTTP 请求。"></a>3.浏览器发出HTTP 请求。</h3><p>客户端（浏览器）向web服务器端（HTTP服务器）发送HTTP协议包，请求服务器里的资源文档。<br><br>HTTP请求报文格式：请求行+请求头+空行+消息体，请求行包括请求方式（GET/POST/DELETE/PUT）、请求资源路径（URL）、HTTP版本号；<br>    </p><h3 id="4-服务器对请求作出响应。"><a href="#4-服务器对请求作出响应。" class="headerlink" title="4.服务器对请求作出响应。"></a>4.服务器对请求作出响应。</h3><p>服务器向客户端发送HTTP协议应答包。<br><br>HTTP响应报文格式：状态行+响应头+空行+消息体，状态行包括HTTP版本号、状态码、状态说明。</p><h3 id="5-释放-TCP连接。"><a href="#5-释放-TCP连接。" class="headerlink" title="5.释放 TCP连接。"></a>5.释放 TCP连接。</h3><p>第一次挥手：客户端进程发出连接释放报文，并且停止发送数据。 释放数据报文首部，FIN=1，此时，客户端进入FIN-WAIT-1（终止等待1）状态。<br><br>第二次挥手：服务器收到连接释放报文，发出确认报文，ACK=1，此时，服务端就进入了CLOSE-WAIT（关闭等待）状态。TCP服务器通知高层的应用进程，客户端向服务器的方向就释放了，这时候处于半关闭状态，即客户端已经没有数据要发送了，但是服务器若发送数据，客户端依然要接受。这个状态还要持续一段时间，也就是整个CLOSE-WAIT状态持续的时间。客户端收到服务器的确认请求后，此时，客户端就进入FIN-WAIT-2（终止等待2）状态，等待服务器发送连接释放报文（在这之前还需要接受服务器发送的最后的数据）。<br><br>第三次挥手：服务器将最后的数据发送完毕后，就向客户端发送连接释放报文，FIN=1，此时，服务器就进入了LAST-ACK（最后确认）状态，等待客户端的确认。<br><br>第四次挥手：客户端收到服务器的连接释放报文后，必须发出确认，ACK=1，此时，客户端就进入了TIME-WAIT（时间等待）状态。注意此时TCP连接还没有释放，必须经过2MSL（最长报文段寿命）的时间后，当客户端撤销相应的TCB后，才进入CLOSED状态。服务器只要收到了客户端发出的确认，立即进入CLOSED状态。同样，撤销TCB后，就结束了这次的TCP连接。</p><h3 id="6-浏览器将该-html-文本解析并显示内容。"><a href="#6-浏览器将该-html-文本解析并显示内容。" class="headerlink" title="6.浏览器将该 html 文本解析并显示内容。"></a>6.浏览器将该 html 文本解析并显示内容。</h3><h3 id="Q1-为什么TIME-WAIT状态需要经过2MSL-最大报文段生存时间-才能返回到CLOSE状态？"><a href="#Q1-为什么TIME-WAIT状态需要经过2MSL-最大报文段生存时间-才能返回到CLOSE状态？" class="headerlink" title="Q1.为什么TIME_WAIT状态需要经过2MSL(最大报文段生存时间)才能返回到CLOSE状态？"></a>Q1.为什么TIME_WAIT状态需要经过2MSL(最大报文段生存时间)才能返回到CLOSE状态？</h3><p>假象网络是不可靠的，有可以最后一个ACK丢失。所以TIME_WAIT状态就是用来重发可能丢失的ACK报文。服务器如果没有收到ACK，将不断重复发送FIN片段。所以客户端不能立即关闭，它必须确认服务器接收到了该ACK。客户端会设置一个计时器，等待2MSL的时间。如果在该时间内再次收到FIN，那么客户端会重发ACK并再次等待2MSL。如果直到2MSL，客户端都没有再次收到FIN，那么客户端推断ACK已经被成功接收，则结束TCP连接。</p><h3 id="Q2-为什么连接的时候是三次握手，关闭的时候却是四次握手？"><a href="#Q2-为什么连接的时候是三次握手，关闭的时候却是四次握手？" class="headerlink" title="Q2.为什么连接的时候是三次握手，关闭的时候却是四次握手？"></a>Q2.为什么连接的时候是三次握手，关闭的时候却是四次握手？</h3><p>因为当Server端收到Client端的SYN连接请求报文后，可以直接发送SYN+ACK报文。其中ACK报文是用来应答的，SYN报文是用来同步的。但是关闭连接时，当Server端收到FIN报文时，很可能并不会立即关闭SOCKET，所以只能先回复一个ACK报文，告诉Client端，”你发的FIN报文我收到了”。只有等到我Server端所有的报文都发送完了，我才能发送FIN报文，因此不能一起发送。故需要四步握手。</p><h3 id="Q3-如果已经建立了连接，但是客户端突然出现故障了怎么办？"><a href="#Q3-如果已经建立了连接，但是客户端突然出现故障了怎么办？" class="headerlink" title="Q3.如果已经建立了连接，但是客户端突然出现故障了怎么办？"></a>Q3.如果已经建立了连接，但是客户端突然出现故障了怎么办？</h3><p>TCP还设有一个保活计时器，显然，客户端如果出现故障，服务器不能一直等下去，白白浪费资源。服务器每收到一次客户端的请求后都会重新复位这个计时器，时间通常是设置为2小时，若两小时还没有收到客户端的任何数据，服务器就会发送一个探测报文段，以后每隔75秒钟发送一次。若一连发送10个探测报文仍然没反应，服务器就认为客户端出了故障，接着就关闭连接。</p><hr><h2 id="TCP和UDP"><a href="#TCP和UDP" class="headerlink" title="TCP和UDP"></a>TCP和UDP</h2><h3 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h3><p>优点：可靠，稳定 TCP的可靠体现在TCP在传递数据之前，会有三次握手来建立连接，在数据传递时，有确认、窗口、重传、拥塞控制机制，在数据传完后，还会断开连接用来节约系统资源。<br><br>缺点：慢，效率低，占用系统资源高，易被攻击 TCP在传递数据之前，要先建连接，这会消耗时间，在数据传递时，确认机制、重传机制、拥塞控制机制等都会消耗大量的时间，而且要在每台设备上维护所有的传输连接，事实上，每个连接都会占用系统的CPU、内存等硬件资源。 因为TCP有确认机制、三次握手机制，这些也导致TCP容易被人利用，实现DOS、DDOS、CC等攻击。<br><br>应用：浏览器，用的HTTP FlashFXP，用的FTP Outlook，用的POP、SMTP Putty，用的Telnet、SSH QQ文件传输 <br></p><h3 id="TCP编程"><a href="#TCP编程" class="headerlink" title="TCP编程"></a>TCP编程</h3><h4 id="服务端"><a href="#服务端" class="headerlink" title="服务端"></a>服务端</h4><p>1.创建一个socket，用函数socket() ；<br>2.设置socket属性，用函数setsockopt(); * 可选<br>3.绑定IP地址、端口等信息到socket上，用函数bind();<br>4.开启监听，用函数listen()；<br>5.接收客户端上来的连接，用函数accept()；<br>6.收发数据，用函数send()和recv()，或者read()和write();<br>7.关闭网络连接；<br>8.关闭监听； </p><h4 id="客户端"><a href="#客户端" class="headerlink" title="客户端"></a>客户端</h4><p>1.创建一个socket，用函数socket()；<br>2.设置socket属性，用函数setsockopt();* 可选<br>3.绑定IP地址、端口等信息到socket上，用函数bind();* 可选<br>4.设置要连接的对方的IP地址和端口等属性；<br>5.连接服务器，用函数connect()；<br>6.收发数据，用函数send()和recv()，或者read()和write(); 　<br>7.关闭网络连接；           </p><h3 id="UDP"><a href="#UDP" class="headerlink" title="UDP"></a>UDP</h3><p>优点：快，比TCP稍安全，UDP没有TCP的握手、确认、窗口、重传、拥塞控制等机制，UDP是一个无状态的传输协议，所以它在传递数据时非常快。没有TCP的这些机制，UDP较TCP被攻击者利用的漏洞就要少一些。<br>缺点：不可靠，不稳定 。因为UDP没有TCP那些可靠的机制，在数据传递时，如果网络质量不好，就会很容易丢包。<br>应用：当对网络通讯质量要求不高的时候，要求网络通讯速度能尽量的快，这时就可以使用UDP。QQ语音，QQ视频 ……</p><h3 id="UDP编程"><a href="#UDP编程" class="headerlink" title="UDP编程"></a>UDP编程</h3><h4 id="服务端-1"><a href="#服务端-1" class="headerlink" title="服务端"></a>服务端</h4><p>1、创建一个socket，用函数socket()；<br>2、设置socket属性，用函数setsockopt();* 可选<br>3、绑定IP地址、端口等信息到socket上，用函数bind();<br>4、循环接收数据，用函数recvfrom();<br>5、关闭网络连接； </p><h4 id="客户端-1"><a href="#客户端-1" class="headerlink" title="客户端"></a>客户端</h4><p>1、创建一个socket，用函数socket()；<br>2、设置socket属性，用函数setsockopt();* 可选<br>3、绑定IP地址、端口等信息到socket上，用函数bind();* 可选<br>4、设置对方的IP地址和端口等属性;<br>5、发送数据，用函数sendto();<br>6、关闭网络连接；   </p><h3 id="TCP与UDP区别"><a href="#TCP与UDP区别" class="headerlink" title="TCP与UDP区别"></a>TCP与UDP区别</h3><p>1、TCP面向连接（如打电话要先拨号建立连接）;UDP是无连接的，即发送数据之前不需要建立连接。<br>2、TCP提供可靠的服务。也就是说，通过TCP连接传送的数据，无差错，不丢失，不重复，且按序到达;UDP尽最大努力交付，即不保证可靠交付<br>3、TCP面向字节流，实际上是TCP把数据看成一连串无结构的字节流;UDP是面向报文的,UDP没有拥塞控制，因此网络出现拥塞不会使源主机的发送速率降低（对实时应用很有用，如IP电话，实时视频会议等）<br>4、每一条TCP连接只能是点到点的;UDP支持一对一，一对多，多对一和多对多的交互通信<br>5、TCP首部开销20字节;UDP的首部开销小，只有8个字节<br>6、TCP的逻辑通信信道是全双工的可靠信道，UDP则是不可靠信道</p><hr><h2 id="HTTP协议"><a href="#HTTP协议" class="headerlink" title="HTTP协议"></a>HTTP协议</h2><h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><p>HTTP（HyperText Transfer Protocol）即超文本传输协议，是一种详细规定了浏览器和万维网服务器之间互相通信的规则， 它是万维网交换信息的基础，无状态，短连接。</p><h3 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h3><p>允许将HTML（超文本标记语言）文档从Web服务器传送到Web浏览器。HTTP是一种无状态的协议，无状态是指Web浏览器与Web服务器之间不需要建立持久的连接，这意味着当一个客户端向服务器端发出请求，然后Web服务器返回响应（Response），连接就被关闭了，在服务器端不保留连接的有关信息。也就是说，HTTP请求只能由客户端发起，而服务器不能主动向客户端发送数据。</p><h3 id="GET和POST的区别"><a href="#GET和POST的区别" class="headerlink" title="GET和POST的区别"></a>GET和POST的区别</h3><ul><li>get是从服务器上获取数据，post是向服务器传送数据。</li><li>get是把参数数据队列加到提交表单的ACTION属性所指的URL中，值和表单内各个字段一一对应，在URL中可以看到。post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML HEADER内一起传送到ACTION属性所指的URL地址。用户看不到这个过程。</li><li>对于get方式，服务器端用Request.QueryString获取变量的值，对于post方式，服务器端用Request.Form获取提交的数据。</li><li>get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制。</li><li>get安全性非常低，post安全性较高。</li></ul><hr><h2 id="Cookie和Session"><a href="#Cookie和Session" class="headerlink" title="Cookie和Session"></a>Cookie和Session</h2><h3 id="Session"><a href="#Session" class="headerlink" title="Session"></a>Session</h3><p>Session 是存放在服务器端的，类似于Session结构来存放用户数据，<br>当浏览器第一次发送请求时，服务器自动生成了一个Session和一个Session ID用来唯一标识这个Session，并将其通过响应发送到浏览器。<br>当浏览器第二次发送请求，会将前一次服务器响应中的Session ID放在请求中一并发送到服务器上，服务器从请求中提取出Session ID，并和保存的所有Session ID进行对比，找到这个用户对应的Session。<br>由于Session存放在服务器端，所以随着时间的推移或者用户访问的增多，会给服务器增加负担。使用的时候要考虑下服务器的性能。</p><h3 id="Cookie"><a href="#Cookie" class="headerlink" title="Cookie"></a>Cookie</h3><p>Cookie实际上是一小段的文本信息。客户端请求服务器，如果服务器需要记录该用户状态，就使用response向客户端浏览器颁发一个Cookie。客户端会把Cookie保存起来。由于Cookie是存放在客户端，是可见的，安全性就会很低。因此不建议将一些重要的信息放在cookie中。</p><h3 id="区别："><a href="#区别：" class="headerlink" title="区别："></a>区别：</h3><ul><li>cookie存放在客户端，session存放在服务器端</li><li>cookie不是很安全，别人可以分析你本地的cookie信息进行cookie欺骗，因此重要信息应考虑保存在服务器端</li><li>session一定时间内回报存在服务器端，当访问量增大时，会影响服务器性能，从性能方面考虑应使用cookie</li><li>不同浏览器对cookie的数据大小限制不同，个数限制也不同</li><li>可以考虑将登陆信息等重要信息存放为session，不重要的信息可以放在cookie中</li></ul><h3 id="如果客户端禁止-cookie，session-还能用吗？"><a href="#如果客户端禁止-cookie，session-还能用吗？" class="headerlink" title="如果客户端禁止 cookie，session 还能用吗？"></a>如果客户端禁止 cookie，session 还能用吗？</h3><p>如果浏览器禁止cookie，那么客户端访问服务端时无法携带sessionid，服务端无法识别用户身份，便无法进行会话控制，session失效。</p><h3 id="但可以通过以下几种方法"><a href="#但可以通过以下几种方法" class="headerlink" title="但可以通过以下几种方法"></a>但可以通过以下几种方法</h3><ol><li>URL重写：URL重写要求将站点中的所有超链接都进行改造,在超链接后用一个特殊的参数JSESSIONID保存当前浏览器对应session的编号，这样一来,当用户点击超链接访问服务器时,服务器可以从URL后的参数中分析出JSESSIONID,从而找到对应的sesison使用。</li><li>用文件、数据库等形式保存Session ID，在跨页过程中手动调用</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Notes </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> network </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软件工程整理</title>
+      <link href="2020/05/31/ruan-jian-gong-cheng-zheng-li/"/>
+      <url>2020/05/31/ruan-jian-gong-cheng-zheng-li/</url>
+      
+        <content type="html"><![CDATA[<h1 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h1><table><thead><tr><th>课件序号</th><th>课题名称</th><th>课件序号</th><th>课题名称</th></tr></thead><tbody><tr><td>Lecture 01</td><td><a href="#lec1">介绍</a></td><td>Lecture 11</td><td><a href="#lec11">单元测试&amp;测试驱动开发</a></td></tr><tr><td>Lecture 02</td><td><a href="#lec2">用户需求</a></td><td>Lecture 12</td><td><a href="#lec12">发布测试&amp;验收测试</a></td></tr><tr><td>Lecture 03</td><td><a href="#lec3">需求收集</a></td><td>Lecture 13</td><td><a href="#lec13">配置部署</a></td></tr><tr><td>Lecture 04</td><td><a href="#lec4">需求建模</a></td><td>Lecture 14</td><td><a href="#lec14">发展维护</a></td></tr><tr><td>Lecture 05</td><td><a href="#lec5">需求验证</a></td><td>Lecture 15</td><td><a href="#lec15">软件质量</a></td></tr><tr><td>Lecture 07</td><td><a href="#lec7">规范</a></td><td>Lecture 16</td><td><a href="#lec16">敏捷开发</a></td></tr><tr><td>Lecture 08</td><td><a href="#lec8">原型</a></td><td>Lecture 17</td><td><a href="#lec18">风险管理</a></td></tr><tr><td>Lecture 09</td><td><a href="#lec9">面向对象设计和测试计划</a></td><td>Lecture 19</td><td><a href="#lec19">项目计划</a></td></tr><tr><td>Lecture 10</td><td><a href="#lec10">实施</a></td><td></td><td></td></tr></tbody></table><hr><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p><span id="lec1"></span></p><h3 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h3><p><strong>定义：</strong> 软件是可以工作的东西，通常是用来帮助“real humans”做一些事情。<br><br><strong>组成部分：</strong> The compiled code, documentation, configuration components, installation/upgrade.</p><h3 id="软件工程的定义"><a href="#软件工程的定义" class="headerlink" title="软件工程的定义"></a>软件工程的定义</h3><p>在软件的开发、操作和维护中应用一种系统的、有纪律的、可量化的方法。即工程在软件中的应用。</p><h3 id="软件过程"><a href="#软件过程" class="headerlink" title="软件过程"></a>软件过程</h3><p><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/seprocess.png?raw=true" alt="SEprocess"><br>60%用与设计和构造软件，40%用于测试和交付软件，通常维护软件的成本往往比生产高。<br></p><h3 id="几种常见的软件工程模型"><a href="#几种常见的软件工程模型" class="headerlink" title="几种常见的软件工程模型"></a>几种常见的软件工程模型</h3><h4 id="瀑布模型和V模型（waterfall-amp-V）"><a href="#瀑布模型和V模型（waterfall-amp-V）" class="headerlink" title="瀑布模型和V模型（waterfall&amp;V）"></a>瀑布模型和V模型（waterfall&amp;V）</h4><p><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/waterfallmodel.png?raw=true" width="400" height="250"><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/vmodel.png?raw=true" width="400" height="250"></p><p><strong>特征：</strong> 以文档为驱动，每个阶段都有与其相关的里程碑和交付产品，每个阶段结束前完成文档审查改正错误。<br><br><strong>缺点：</strong> 1. 需要稳定和完美的需求，无法应对需求的变化。2. 无法进行修订或重构，过于inflexible和static。3. 会产生许多连锁反应，无法进行迭代。4. 工作量太大，会产生很多文档。</p><h4 id="迭代、螺旋模型（iterative）"><a href="#迭代、螺旋模型（iterative）" class="headerlink" title="迭代、螺旋模型（iterative）"></a>迭代、螺旋模型（iterative）</h4><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/iterativespiral.png?raw=true" width="500" height="350"><p><strong>特征：</strong> 将开发和风险评估结合起来。将开发过程分成好多次迭代，每次迭代代表一个阶段，将一次迭代放在一个坐标轴里，四个象限分别代表：<strong>1. 明确目标、选择、约束</strong>，<strong>2. 评估方案、风险分析、构建原型</strong>，<strong>3. 开发验证</strong>，<strong>4. 计划下阶段</strong>。结合了瀑布模型和原型模型，适合比较复杂风险较大的系统。<br><br><strong>缺点：</strong> 1. 系统结构通常不良 2. 做得太多而计划不足，增加成本和时间。3. 要求开发团队具有特殊技能。</p><hr><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><p><span id="lec2"></span></p><h3 id="需求工程"><a href="#需求工程" class="headerlink" title="需求工程"></a>需求工程</h3><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/requirementsprocess.png?raw=true" width="500" height="400"><h3 id="需求引出和分析"><a href="#需求引出和分析" class="headerlink" title="需求引出和分析"></a>需求引出和分析</h3><table><thead><tr><th align="center">初始方法</th><th align="center">介绍</th><th align="center">优缺点</th></tr></thead><tbody><tr><td align="center"><strong>Stakeholder Analysis</strong></td><td align="center"><strong>目的：</strong> 确认所有会用该系统的人。主要、次要、第三方利益相关者。</td><td align="center"></td></tr><tr><td align="center"><strong>Personas</strong></td><td align="center">代表真实的利益相关者类型，但是不是真人的报告。制作两三个 <strong>key user type</strong>。<br> <strong>目标：</strong> 清楚的区分所有的利益相关者。</td><td align="center"></td></tr><tr><td align="center"><strong>Use case diagrams</strong></td><td align="center">详细的说明每个利益相关者要完成的任务，用actors和case。</td><td align="center"></td></tr><tr><td align="center"><strong>User stories</strong></td><td align="center">将actors和case放在一起并且加上原因。“As a <strong>role</strong>, I want <strong>goal/desire</strong> so that <strong>outcome</strong>” (a role, a goal and an effect/outcome/motivation)。在敏捷开发中经常被使用。</td><td align="center">简洁明了，维护成本低，创造了一个清楚的需求清单，可以将项目分解成块根据重要性排序。在大型项目中很难使用，缺少细节和正式术语，无法描述过程、任务和上下文。</td></tr></tbody></table><hr><h2 id="需求收集"><a href="#需求收集" class="headerlink" title="需求收集"></a>需求收集</h2><p><span id="lec3"></span></p><h3 id="需求的分类：功能性vs非功能性"><a href="#需求的分类：功能性vs非功能性" class="headerlink" title="需求的分类：功能性vs非功能性"></a>需求的分类：功能性vs非功能性</h3><p><strong>功能性需求：</strong> 描述系统应该做什么，为用户和其他系统完成的功能服务。<br><br><strong>非功能性需求：</strong> 必须遵照的标准，约束条件，质量属性。</p><h3 id="获取需求的方式"><a href="#获取需求的方式" class="headerlink" title="获取需求的方式"></a>获取需求的方式</h3><table><thead><tr><th align="center">方式</th><th align="center">介绍</th><th align="center">优缺点</th></tr></thead><tbody><tr><td align="center"><strong>Surveys</strong></td><td align="center"></td><td align="center">有助于获得大多数人的意见但是不利于理解细节。常见的错误：发送错误的问卷，被精心设计来获得偏向性的答案。第二常见的错误：reinvent the wheel。其他问题：2 parts questions, leading questions, surveys are too long。</td></tr><tr><td align="center"><strong>Interviews &amp; Focus Group</strong></td><td align="center">允许自由的提问，面试管思想开放鼓励交流。往往不只是在talk，还会展示一些图表让你展开讨论。</td><td align="center">常见错误：没有计划和todo list。可以讨论不同的观点，更快地覆盖用户，但是可能产生矛盾，诞生主导发言者或者讨论时间太长。</td></tr><tr><td align="center"><strong>Observations</strong></td><td align="center">看到别人没说到的东西因为人们很少了解到整个情况。</td><td align="center"></td></tr><tr><td align="center"><strong>Technology Tours</strong></td><td align="center">发现了解任务中的所有技术。帮助你确定软件将使用哪些功能。</td><td align="center"></td></tr><tr><td align="center"><strong>Ethnography</strong></td><td align="center">感觉不是很重要😂</td><td align="center"></td></tr></tbody></table><hr><h2 id="需求模型"><a href="#需求模型" class="headerlink" title="需求模型"></a>需求模型</h2><p><span id="lec4"></span><br><strong>模型的作用：（不止在需求分析中）</strong> 1. 导出需求。2. 在设计过程中描述系统工程师实现的东西。3. 在实现后记录系统结构和操作。</p><table><thead><tr><th align="center">模型名称</th><th align="center">介绍</th></tr></thead><tbody><tr><td align="center">上下文模型</td><td align="center">在收集需求的时候，确定了许多需要交互的系统，你想知道这些系统是如何关联的（大部分是用于非功能性需求）。定义了系统的边界，代表了需要开发的关键系统和其他系统、组件的关系，并且还有不开发的系统。</td></tr><tr><td align="center">任务分析</td><td align="center">用于标识子任务，不利于过程，没有decision points，没有actors</td></tr><tr><td align="center">Scenarios</td><td align="center"><strong>MUST</strong> define a setting or context<br> <strong>MUST</strong> define one or more actors or users<br> <strong>MUST</strong> define goals or objectives<br> <strong>MUST</strong> describe a plot,the plot describes how a user,in a context,achieves a goal</td></tr><tr><td align="center"><strong>UML图</strong></td><td align="center"><strong>BELOW⬇️⬇️⬇️</strong></td></tr><tr><td align="center">活动图</td><td align="center">黑球代表开始，黑心球代表结束，bar代表并行，diamond代表决策，用于详细说明关键活动的工作流（尤其是涉及决策的时候），通常是为了详细定义一个use case。</td></tr><tr><td align="center">顺序图</td><td align="center">有利于人与系统之间复杂信息的共享，可被视为关键部分之间的一系列信息。</td></tr><tr><td align="center">类图</td><td align="center">在面向对象的代码中制定类</td></tr><tr><td align="center">状态图</td><td align="center">表示某物可能存在的状态</td></tr></tbody></table><hr><h2 id="需求验证"><a href="#需求验证" class="headerlink" title="需求验证"></a>需求验证</h2><p><span id="lec5"></span><br><strong>目的：</strong> <br> </p><ol><li>Checking that you are right：确认系统是不是用户真正想要的。<br> </li><li>Avoiding reworking：避免再次修改带来的巨大成本。<br> </li><li>Contractually Agreeing：在项目的某一个阶段，你需要决定到底真正想做什么，你需要让所有人同意你造的东西。</li></ol><ul><li>你要展示给你的老板和同事（internal validation），采取“Requirements Review”的方式，与你的团队合作，将需求、计划、预算等介绍给你的经理。</li><li>如果遇到问题，就不能进行外部验证，如果是缺少的部分就要进行更多的elicitation，如果是冲突，记录下来问题与客户沟通。</li><li>必须和用户达成一致（external validation），其实就是和用户做“Requirements Review”。</li></ul><ol start="4"><li>Specification也可以进行需求验证。</li></ol><p><strong>需求规格说明书（SRS）：</strong></p><ul><li>把用户的需求翻译成正式的文档， <strong>“做什么”</strong> 而不是“怎样实现”。</li><li>通常是一大组嵌套的列表，具有唯一的ID。</li><li>生成的图表与之匹配。</li><li>清单被分类（重要性、风险）。</li><li>项目结束时定义验收测试。</li></ul><hr><h2 id="规范"><a href="#规范" class="headerlink" title="规范"></a>规范</h2><p><span id="lec7"></span></p><h3 id="规范-vs-需求"><a href="#规范-vs-需求" class="headerlink" title="规范 (vs 需求)"></a>规范 (vs 需求)</h3><table><thead><tr><th align="center">类型</th><th align="center">功能</th><th align="center">对象</th><th align="center">定义</th></tr></thead><tbody><tr><td align="center"><strong>需求(用户):</strong></td><td align="center">What a stakeholder needs to be able to do.</td><td align="center">Client managers,System end-users,Client engineers,Contractor managers,System architects</td><td align="center">系统所要实现的<strong>功能和性能</strong>，系统的运行环境和发展前景。是项目的基础，定义了所需要的质量水平便于决策，为之后的测试打下基础</td></tr><tr><td align="center"><strong>规范(系统):</strong></td><td align="center">What the software must do to meet the requirement above.</td><td align="center">System end-users,Client engineers,System architects,Software developers</td><td align="center">对系统的功能、服务、约束更加细节地描述，将要实现什么。系统将<strong>如何满足</strong>用户的需求，通常以表格形式列出。</td></tr></tbody></table><p><strong>需求与规范的区别：</strong> 需求是指从<strong>业务用户</strong>的角度来看业务需求，而规范是从<strong>系统</strong>的角度定义需求；需求表示问题或需要而规范提供了问题的解决方案；需求是从企业用户/利益相关者收集，而规范则是由技术团队提供的他们心里的需求。；需求的输入是业务用户，而规范的输入是需求文档、业务用户和技术团队。</p><h3 id="几种规范的格式"><a href="#几种规范的格式" class="headerlink" title="几种规范的格式"></a>几种规范的格式</h3><table><thead><tr><th align="center">名称</th><th align="center">介绍</th></tr></thead><tbody><tr><td align="center"><strong>Natural Language</strong></td><td align="center">可以通俗直观也可以模棱两可。<br> <strong>标准格式：</strong> 用一句话链接到用户的序曲，区分强制的（shall）和可取的（should），强调重要元素，避免使用行话，确保<strong>measurable</strong> 。</td></tr><tr><td align="center"><strong>Structured</strong></td><td align="center">将规范制成表格或者放在模版里。可以指定附加条件。</td></tr><tr><td align="center"><strong>Graphical</strong></td><td align="center">UML图、原型。当发现规范很复杂，可以将他们可视化。</td></tr><tr><td align="center"><strong>Mathematical</strong></td><td align="center">没有详细介绍 T^T</td></tr></tbody></table><h3 id="一个好的系统规范"><a href="#一个好的系统规范" class="headerlink" title="一个好的系统规范"></a>一个好的系统规范</h3><ul><li><strong>Tracebility：</strong> 所有的规范都可以追溯到用户需求，在报告中要写清楚支持的用户需求，可以按照重要性、难度分类。</li><li><strong>Testability：</strong> 你需要知道你实现了这个规范指定的内容，要让规范可测试。</li></ul><h3 id="需求文档检查"><a href="#需求文档检查" class="headerlink" title="需求文档检查"></a>需求文档检查</h3><ul><li><strong>Validity checks:</strong> 不同用户使用不同功能的有效性。</li><li><strong>Consistency checks:</strong> 需求之间不能冲突。</li><li><strong>Completeness checks:</strong> 包括所有用户想要的需求和约束。</li><li><strong>Realism checks:</strong> 是否能被现有技术实现。</li><li><strong>Verifability checks:</strong> 是否能被测试。</li></ul><hr><h2 id="原型"><a href="#原型" class="headerlink" title="原型"></a>原型</h2><p><span id="lec8"></span><br><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/prototype.png?raw=true" width="800" height="400"><br><br><br><strong>定义：</strong> 一种设想所有规格协同工作的方法，测试规范的一致性，是系统具体但 <strong>部分</strong> 的实现。</p><table><thead><tr><th align="center">Low Fidelity</th><th align="center">High Fidelity</th></tr></thead><tbody><tr><td align="center">草图、纸模型</td><td align="center">自动化软件</td></tr><tr><td align="center">潜在的想法</td><td align="center">与最终产品相似</td></tr><tr><td align="center">关键的功能</td><td align="center">准确的细节</td></tr></tbody></table><p><strong>目的：</strong> 1. 技术的作用 2. 看和感觉 3. 实施指南<br><br><strong>风险：</strong> </p><ul><li>在high fidelity上投入过多时间和花费。</li><li>Adhoc的代码被用在了实际系统里。</li><li>原型替代了文档的作用。</li><li>被错误的stakeholder批准。</li></ul><hr><h2 id="面向对象设计和测试计划"><a href="#面向对象设计和测试计划" class="headerlink" title="面向对象设计和测试计划"></a>面向对象设计和测试计划</h2><p><span id="lec9"></span><br><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/OOD.png?raw=true" width="600" height="400"></p><h3 id="如何进行面向对象设计"><a href="#如何进行面向对象设计" class="headerlink" title="如何进行面向对象设计"></a>如何进行面向对象设计</h3><ul><li>理解并定义上下文和外部与系统的交互。</li><li>设计系统体系结构。</li><li>标识系统中的主体对象</li><li>开发设计模型</li><li>指定接口</li></ul><h3 id="测试计划（作为设计的一部分）"><a href="#测试计划（作为设计的一部分）" class="headerlink" title="测试计划（作为设计的一部分）"></a>测试计划（作为设计的一部分）</h3><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/testplan.png?raw=true" width="800" height="350"><p><strong>开发测试计划（Development）：</strong> 证明类功能正确。<br><br><strong>系统/集成测试计划（System/Integration）：</strong> 证明软件符合规范，组件接口是否正确。<br><br><strong>开发测试计划（Acceptance）：</strong> 表明软件符合要求，经常用客户端完成。<br></p><h3 id="测试计划中需要写的部分"><a href="#测试计划中需要写的部分" class="headerlink" title="测试计划中需要写的部分"></a>测试计划中需要写的部分</h3><ul><li>测试过程，对方法的描述</li><li>需求的可追溯性，需求和测试之间的联系</li><li>被测试的items</li><li>测试日历</li><li>测试记录的过程</li><li>需要什么样的硬件和软件的配置</li><li>将要测试的所有精确用例<img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/testplandocument.png?raw=true" width="700" height="350"></li></ul><h3 id="设计测试用例"><a href="#设计测试用例" class="headerlink" title="设计测试用例"></a>设计测试用例</h3><p><strong>需要包含：</strong> 正在测试的内容的声明，测试输入的规格，预期输出，测试所需步骤。<br><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/testcase.png?raw=true" width="800" height="250"></p><h3 id="测试类型"><a href="#测试类型" class="headerlink" title="测试类型"></a>测试类型</h3><p><strong>验证测试（Validation Testing）：</strong> 先是软件测试会显示的正确答案。<br><br><strong>缺陷测试（Defect Testing）：</strong> 显示软件不会中断的测试。</p><hr><h2 id="实施"><a href="#实施" class="headerlink" title="实施"></a>实施</h2><p><span id="lec10"></span></p><ul><li><strong>Developer：</strong> 建造一个特殊的类，将代码交付给团队审批和使用。</li><li><strong>The Development Team Manager：</strong> 证明整个系统已完成，交出文件。</li><li><strong>The Integration Team：</strong> 集成类，并构建主系统。</li></ul><h3 id="编写代码的策略"><a href="#编写代码的策略" class="headerlink" title="编写代码的策略"></a>编写代码的策略</h3><ul><li><strong>Test-Driven Development：</strong> 在编写代码之前，编写他必须通过的自动测试；然后在编写代码，等他通过测试就说明完成了。</li><li><strong>Comment-Driven Development：</strong> 先写注释，然后用代码填充注释。</li></ul><hr><h2 id="单元测试-amp-测试驱动开发"><a href="#单元测试-amp-测试驱动开发" class="headerlink" title="单元测试&amp;测试驱动开发"></a>单元测试&amp;测试驱动开发</h2><p><span id="lec11"></span></p><table><thead><tr><th align="center">白盒测试</th><th align="center">黑盒测试</th></tr></thead><tbody><tr><td align="center">透明的测试，知道代码是如何工作的</td><td align="center">不知道代码是如何工作的，只知道输入输出是什么</td></tr><tr><td align="center">面前通常都有代码</td><td align="center">通常运行编译后的版本</td></tr><tr><td align="center">用于开发测试</td><td align="center">用于发布测试和验收测试</td></tr><tr><td align="center"><strong>自动化测试</strong></td><td align="center"><strong>手动测试</strong></td></tr><tr><td align="center">大量的脚本和编码测试</td><td align="center">高等级的测试</td></tr><tr><td align="center">在代码编译/提交时运行</td><td align="center">在计划阶段运行-关键阶段结束</td></tr><tr><td align="center">可以内置到版本控制平台</td><td align="center">通常在准备好测试的代码上运行</td></tr></tbody></table><p><strong>TDD的优点：</strong> 它集成了规范、编码和测试的各个方面；在构建代码之前，让您考虑如何使用代码；这意味着您在“编写”代码之前先“计划”代码；这意味着你要从全局出发，而不是从当前的功能出发；当要修改代码的时候，他会帮你检查之前还可以通过的代码。</p><hr><h2 id="发布测试-amp-验收测试"><a href="#发布测试-amp-验收测试" class="headerlink" title="发布测试&amp;验收测试"></a>发布测试&amp;验收测试</h2><p><span id="lec12"></span><br><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/testphase.png?raw=true" width="700" height="350"></p><h3 id="集成测试（子系统测试）"><a href="#集成测试（子系统测试）" class="headerlink" title="集成测试（子系统测试）"></a>集成测试（子系统测试）</h3><p>将软件集成起来进行测试。因为两个模块如果单独运行正常，但合在一起有可能出毛病。</p><h3 id="发布测试（系统测试）"><a href="#发布测试（系统测试）" class="headerlink" title="发布测试（系统测试）"></a>发布测试（系统测试）</h3><p>从用户使用的角度进行测试，将完成了集成测试的系统放在真是的运行环境下运行，是validaiton testing而不是defect testing，是<strong>黑盒测试</strong>。</p><h3 id="验收测试"><a href="#验收测试" class="headerlink" title="验收测试"></a>验收测试</h3><p>在发布测试之后，软件正式使用前的最终测试阶段，使用客户提供的真实数据进行测试。还可能揭示出系统不能满足的用户需要或者系统不可接受的表现。<br><br><br><img src="https://github.com/lakerschampions/Learning-Notes/blob/master/images/acceptancetesting.png?raw=true" width="700" height="150"><br><br><br><strong>测试步骤：</strong> 定义测试标准 -&gt; 计划验收测试 -&gt; 导出验收测试 -&gt; 进行测试 -&gt; 协商测试结果 -&gt; 接受/拒绝系统</p><hr><h2 id="配置部署"><a href="#配置部署" class="headerlink" title="配置部署"></a>配置部署</h2><p><span id="lec13"></span><br>Release management is a continuous strategy planning for releases</p><table><thead><tr><th align="center">开发频道名称</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">Stable versions</td><td align="center">当前稳定版本</td></tr><tr><td align="center">Beta versions</td><td align="center">官方版本</td></tr><tr><td align="center">Dev versions</td><td align="center">比每周更新更加频繁</td></tr><tr><td align="center">Canary builds</td><td align="center">每日发布，一建成就发布</td></tr></tbody></table><h3 id="持续集成工作流程"><a href="#持续集成工作流程" class="headerlink" title="持续集成工作流程"></a>持续集成工作流程</h3><p><strong>版本控制-&gt;持续集成-&gt;建造配置-&gt;自动部署</strong></p><h3 id="持续集成的概念"><a href="#持续集成的概念" class="headerlink" title="持续集成的概念"></a>持续集成的概念</h3><p>持续集成（CI）是一种实践，可以让团队在持续的基础上收到反馈并进行改进，不必等到开发周期后期才寻找和修复缺陷。通俗一点儿说，就是指对于开发人员的每一次代码提交，都自动地把Repository中所有代码Check out到一个空目录，并且自动运行所有Test Case。如果成功则接受这次提交，否则告诉所有人，这是一个失败的Revision。</p><hr><h2 id="发展维护"><a href="#发展维护" class="headerlink" title="发展维护"></a>发展维护</h2><p><span id="lec14"></span></p><p><strong>维护的作用：</strong> 纠正先前没有发现的错误；改进系统单元的实施；在发现新需求时增强系统的服务。<br><br><strong>维护的花费：</strong> </p><ul><li>团队的改变</li><li>职员的技能水平</li><li>项目的寿命和结构</li><li>poor的开发训练</li><li>不实际的需求和设计，没有意义的命名</li><li>复杂的方法，糟糕的代码</li></ul><br><p><strong>三种改变的方法：</strong></p><ul><li>修改代码错误，往往比较便宜</li><li>环境适应，更新操作系统，成本更高</li><li>添加功能，满足业务变化，需要重新设计</li></ul><h3 id="需求变更管理"><a href="#需求变更管理" class="headerlink" title="需求变更管理"></a>需求变更管理</h3><p><strong>定义：</strong> 根据新的需求改变，跟踪发现了什么变化。需求需要唯一的ID以便于交叉引用。只有首先指定每个规范支持的需求，才能理解对规范/设计的影响。<br><br><strong>步骤：</strong> 问题分析，变更规格 -&gt; 改变分析和花费 -&gt; 改变实施</p><h3 id="重构"><a href="#重构" class="headerlink" title="重构"></a>重构</h3><p>通过对程序进行改进来减缓降级速度，通常被认为是“preventative maintenance”。所有的更改都便宜了最初的计划，降低了代码质量。<br><br><strong>需要重构的部分：</strong> 重复相似的代码；长方法；数据聚集；推测性的未来代码</p><hr><h2 id="软件质量"><a href="#软件质量" class="headerlink" title="软件质量"></a>软件质量</h2><p><span id="lec15"></span><br>软件质量意味着做好每一个方面</p><h3 id="QA团队"><a href="#QA团队" class="headerlink" title="QA团队"></a>QA团队</h3><p><strong>目标：</strong> 改进项目之间的流程，记录工作良好的方面，将成功的流程应用于其他项目，<strong>提高公司的质量保证标准。</strong></p><h4 id="制定质量计划：为团队设定实现目标的标准"><a href="#制定质量计划：为团队设定实现目标的标准" class="headerlink" title="制定质量计划：为团队设定实现目标的标准"></a>制定质量计划：为团队设定实现目标的标准</h4><p>为项目推荐质量提升流程，确定哪些是该项目的优质产品，让每个人都知道目标质量是什么而不是目标功能。</p><h4 id="项目质量文件的关键部分："><a href="#项目质量文件的关键部分：" class="headerlink" title="项目质量文件的关键部分："></a>项目质量文件的关键部分：</h4><ul><li>产品介绍：预定市场等</li><li>产品计划：关键发布日期、维护等</li><li>流程描述：此项目将遵循什么流程</li><li>质量目标：最终产品的关键质量属性</li><li>风险和风险管理：预期的关键风险领域。</li></ul><h4 id="确定整个公司的标准和程序"><a href="#确定整个公司的标准和程序" class="headerlink" title="确定整个公司的标准和程序"></a>确定整个公司的标准和程序</h4><p>运用过程标准，产品标准（ISO Standards）</p><h4 id="检查项目是否符合公司标准"><a href="#检查项目是否符合公司标准" class="headerlink" title="检查项目是否符合公司标准"></a>检查项目是否符合公司标准</h4><hr><h2 id="敏捷开发"><a href="#敏捷开发" class="headerlink" title="敏捷开发"></a>敏捷开发</h2><p><span id="lec16"></span></p><h3 id="敏捷开发-VS-传统开发"><a href="#敏捷开发-VS-传统开发" class="headerlink" title="敏捷开发 VS 传统开发"></a>敏捷开发 VS 传统开发</h3><table><thead><tr><th align="center">传统开发</th><th align="center">敏捷开发</th></tr></thead><tbody><tr><td align="center">瀑布模型，V模型</td><td align="center">迭代模型</td></tr><tr><td align="center">需求表</td><td align="center">用户故事，personas</td></tr><tr><td align="center">UML</td><td align="center">快速原型</td></tr><tr><td align="center">正式的用户测试</td><td align="center">用户交互</td></tr><tr><td align="center">集成测试阶段</td><td align="center">持续集成，TDD</td></tr><tr><td align="center">部分技能的团队</td><td align="center">全面技能团队</td></tr></tbody></table><h3 id="四大核心价值观"><a href="#四大核心价值观" class="headerlink" title="四大核心价值观"></a>四大核心价值观</h3><ul><li>流程和工具上的个人和交互</li><li>工作软件优于全面的文档</li><li>合同谈判中的客户协作</li><li>根据计划对变更做出响应</li></ul><table><thead><tr><th align="center">极限编程（XP）</th><th align="center">Scrum</th><th align="center">Kanban</th></tr></thead><tbody><tr><td align="center">周期更小的螺旋开发，每天更新版本</td><td align="center">通过冲刺循环</td><td align="center">我们下一步要做什么，用kanban来管理当前工作</td></tr><tr><td align="center">通过结对编程，集体所有权和避免长时间工作实现个人和互动</td><td align="center"></td><td align="center">将所有要构建的内容保存在一个列表中，优先级可以随时刷新</td></tr><tr><td align="center">通过频繁的小型系统发布来支持工作软件</td><td align="center"></td><td align="center">发布周期是构建功能所需时间的度量</td></tr><tr><td align="center">客户协作意味着客户参与</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">通过定期发布来响应变化</td><td align="center"></td><td align="center"></td></tr></tbody></table><hr><h2 id="风险管理"><a href="#风险管理" class="headerlink" title="风险管理"></a>风险管理</h2><p><span id="lec18"></span></p><h3 id="软件风险"><a href="#软件风险" class="headerlink" title="软件风险"></a>软件风险</h3><h4 id="如何减少风险"><a href="#如何减少风险" class="headerlink" title="如何减少风险"></a>如何减少风险</h4><ul><li>危险避免</li><li>危险检测&amp;移除</li><li>危害限制</li></ul><h3 id="项目风险"><a href="#项目风险" class="headerlink" title="项目风险"></a>项目风险</h3><h4 id="风险策略"><a href="#风险策略" class="headerlink" title="风险策略"></a>风险策略</h4><ul><li><strong>规避策略（Avoidance strategies）</strong>-为降低风险而采取的行动</li><li><strong>最小化策略（Minimization strategies）</strong>-如果发生，减少影响</li><li><strong>应急计划（Contingency plans）</strong>-如果发生，你将做什么/改变什么</li></ul><hr><h2 id="项目计划"><a href="#项目计划" class="headerlink" title="项目计划"></a>项目计划</h2><p><span id="lec19"></span></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Notes </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> UoN </tag>
+            
+            <tag> Software </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最后一舞，舞过一段青春</title>
+      <link href="2019/04/14/zui-hou-yi-wu/"/>
+      <url>2019/04/14/zui-hou-yi-wu/</url>
+      
+        <content type="html"><![CDATA[<p>北京时间2019年4月11日，美国当地时间10日晚，在结束了与布鲁克林篮网队的本赛季常规赛最后一站之后，NBA迈阿密热火队队魂“闪电侠”德维恩韦德宣布退役。</p><p>随后，在达拉斯独行侠与圣安东尼奥马刺队的比赛结束后，独行侠队传奇球星德克诺维斯基宣布退役。</p><p>在同一天之内，两位巨星相继隐退于江湖。<br><br></p><center><embed src="/img/wade.jpeg" width="640" height="398"></center><br><p>又回想起自己刚开始看球的那段时光，大概是06-07赛季，相隔也已12年了。作为99年生人，可以说篮球陪伴我的时间已经超出了生命的一半。<br>那时候，德克和闪电侠刚刚结束了05-06赛季的总决赛大战，正是韦德在0-2落后的情况下，凭一己之力连下四城，硬生生从老司机手里抢走了总冠军。后来，韦德得过得分王，球队战绩却一落千丈；老司机勇夺MVP，缺惨遭勇士黑八。<br>那时候，最爱的老科还叫小飞侠，有过单场81分，三节62分，连续4场50+，加时双绝杀太阳的神奇演出，可湖人队却死气沉沉，科比急需再夺总冠军来证明自己。后来，家嫂驾到，小鲨崛起，湖人三入总决赛两夺总冠军，创造一段紫金王朝。<br>那时候，正是麦迪空降航天城，小巨人逐渐走向联盟第一中锋的时代，越来越多的中国人因为姚明把火箭队看作自己的主队，我也不例外。他们曾为35秒13分而惊呼，为姚麦的伤势而提心吊胆，为22连胜而感到欣喜若狂，也为连续两年在季后赛败给爵士而苦恼……</p><br><p>那时候，在分别结束了几个失意的赛季后，三个步入而立之年的失意者走到了一起，走到了波士顿，组成“Big 3”对冠军发起冲击，他们在第一个赛季就如愿以偿，从此也开始了一段黄绿之争的佳话。<br>那时候，詹皇还叫小皇帝，努力地带领家乡球队骑士冲击总冠军，却最终在总决赛被老辣的GDP横扫。<br>那时候，魔兽霍华德三连最佳防守球员，被誉为单换詹姆斯的男人。<br>那时候，易建联被选中，每次与姚明的中国德比都让无数国人热血沸腾。<br>那时候，每支球队都有属于他们的领袖，每个城市都有属于他们的城市英雄，巨星抱团的现象会为人不耻，三分球还未成为常规武器，缓慢的阵地进攻属于主流。<br>那时候的我正读小学，喜欢在别的孩子争着看动画片时把电视调到CCTV5；喜欢独自在午后坐在墙角一遍又一遍地翻看已经被翻烂的NBA杂志，试图记住每一位球员的名字和事迹；喜欢在自己的主队赢球后激动地在家门口的楼道上努力尝试扣篮……</p><br>再后来，有了詹姆斯的决定1.0，03黄金一代迈阿密聚首，全联盟为之一怔,第一年就闯入总决赛，只奈那一年的老司机天神下凡，创造了总决赛历史上数一数二的单核带队演出，也报了06年的一箭之仇；湖人组成新F4，阵容豪华程度绝无仅有，却遭遇内讧，折戟首轮。随后F4解体，湖人也进入了漫长的重建期；雷霆三少突然从西部崛起；勇士选中库里汤普森；马刺仍然老而弥坚，与三巨头的热火鏖战总决赛...我也上了中学，不再有那么多时间去关注NBA了，但是身体里仍然流动着篮球的血液。<br><br><center><embed src="/img/kobe.png" width="640" height="398"></center><br><p>今天是4月14日，一个全世界科密都不会忘记的日记，三年前的今天，那个偏执的男人终于还是对岁月低下了头。<br><br><br>我永远无法忘记当他突然宣布退役时瞬间呆滞的神情；永远无法忘记退役战当天挤满球迷的餐厅；永远无法忘记当8和24号球衣在斯坦普斯冉冉上升时眼中的热泪；永远无法忘记他喘着粗气投中准绝杀狂砍六十分时坚毅的眼神，正如十几年前第一次看到老大打球时一样。</p><br>可能，篮球一直没有变，是我变了。以前看篮球，我为精彩的暴扣或是刺激的绝杀而惊叹，后来我看到了纯粹的篮球精神，正如科比这般的倔强与不服，这样的备受质疑却仍然坚定自己，像他自己曾说过的“爱我和恨我都由你选择，这就是生活”。一遍又一遍地温习以前的视频集锦，想起以前的自己，我也不是那个努力把纸团投向垃圾桶，希望有一天能成为NBA巨星的小男孩了。我已经长大了，青春也在篮球的陪伴下不知不觉溜走了，这最后一舞，舞过一个时代，舞过一段青春。]]></content>
+      
+      
+      <categories>
+          
+          <category> Life </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Life </tag>
+            
+            <tag> Basketball </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2018/09/01/hello-world/"/>
+      <url>2018/09/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Guideline </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Guideline </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
